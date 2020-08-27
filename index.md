@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Erika's Programing Portfolio
 
 You can use the [editor on GitHub](https://github.com/erikakruck/CP-Portfolio-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
